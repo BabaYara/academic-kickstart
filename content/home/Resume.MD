@@ -15,4 +15,4 @@ subtitle = ""
 weight = 60
 
 +++
-url_pdf = "pdf/Resume1.pdf"
+url_pdf = "pdf/Resume 1.pdf"
