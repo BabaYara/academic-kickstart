@@ -47,10 +47,10 @@ url_poster = ""
 url_source = ""
 
 # Does the content use math formatting?
-math = false
+math = true
 
 # Does the content use source code highlighting?
-highlight = false
+highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
