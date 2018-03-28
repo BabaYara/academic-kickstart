@@ -15,3 +15,4 @@ subtitle = ""
 weight = 60
 
 +++
+{{% staticref "pdf/Resume 1.pdf" %}}Download my CV{{% /staticref %}}
