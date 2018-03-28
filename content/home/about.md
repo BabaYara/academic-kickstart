@@ -38,4 +38,3 @@ weight = 5
 I am a PhD student in Finance studying at NOVA School of Business and Economics. My research interests lie in the intersection of Return Predictability, Machine Learning, and  Financial Econometrics. I am particularly interested in whether or not return predictability at the portfolio level can be improved using tools outside the traditional framework. 
 
 I am currenrtly in the 3rd year of the program and look set to graduate in 2019.
-{{% staticref "pdf/Reseume 1.md" %}View my Resume{{% /staticref %}}
