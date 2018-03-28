@@ -260,7 +260,7 @@ defaultContentLanguageInSubdir = false
   
 [[menu.main]]
   name = "Resume"
-  url = "https://github.com/BabaYara/academic-kickstartacademic-kickstart/static/pdf/Resume 1.pdf"
+  url = "https://github.com/BabaYara/academic-kickstart/static/pdf/Resume 1.pdf"
   weight = 4
 
 [[menu.main]]
