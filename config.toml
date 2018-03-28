@@ -258,7 +258,7 @@ defaultContentLanguageInSubdir = false
   url = "#teaching"
   weight = 3
   
-[[menu.main]]
+[[menu.main]]{{% staticref "pdf/Resume 1.pdf" %}}Download my CV{{% /staticref %}}
   name = "Resume"
   url = "#resume"
   weight = 4
