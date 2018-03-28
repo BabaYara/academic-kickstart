@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20
 
 title = "Publications"
-subtitle = ""
+subtitle = "Complete list"
 
 # Order that this section will appear in.
 weight = 20
