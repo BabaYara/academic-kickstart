@@ -17,9 +17,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Finance (Present)"
+  course = "PhD in Finance"
   institution = "NOVA School of Business and Economics"
-  year = 2019
+  year = "2019 (Expected)"
 
 [[education.courses]]
   course = "MSc in Economics and Business Administration"
