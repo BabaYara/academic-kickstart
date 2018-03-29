@@ -17,8 +17,8 @@ weight = 60
 
 
 <DIV align="justify">
-- Corporate Finance [Msc, 2016, 2017]\n
-- Corporate Finance [MBA, 2018]\n
-- Asset Management  [Msc, 2018]\n
+- Corporate Finance [Msc, 2016, 2017]<br />
+- Corporate Finance [MBA, 2018]<br />
+- Asset Management  [Msc, 2018]<br />
 </DIV>
 
