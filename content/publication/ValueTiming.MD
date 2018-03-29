@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Returns to value strategies in individual equities, commodities, currencies, global bonds and stock indexes are predictable by the value spread. Common and asset-class-specific components of the value spread contribute equally to this predictability. Return variation due to common value is closely associated with standard proxies for risk premia, such as dividend yield, intermediary leverage and illiquidity, but it is at odds with models that exclusively generate a value premium in equities. Return variation due to asset-class-specific value presents another challenge for asset pricing models. The outperformance of value timing and rotation strategies indicates that investors can benefit from the value spread in real-time."
+abstract = "We investigate the relationship between volatility risk premia (the difference between realized volatility and implied volatility) and commodity returns, using a strategy that that buys cheap to-insure commodity futures and sells expensive to-insure commodity futures. We find that this strategy (dubbed VRP) delivers a substantial risk adjusted average nearby return. We also find that individual commodity VRP does not predict own returns in the time series. Furthermore, the commodity futures VRP return stream is not related to the widely traded benchmarks (basis and return momentum), and so provides an alternative source of diversified returns."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -36,7 +36,7 @@ selected = false
 # projects = ["Return Predictability"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3054017"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
