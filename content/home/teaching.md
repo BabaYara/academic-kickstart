@@ -16,7 +16,7 @@ weight = 60
 +++
 
 
-- Corporate Finance \ [Msc, 2016, 2017]
-- Corporate Finance \ [MBA, 2018]
-- Asset Management [Msc, 2018]
+- Corporate Finance [Msc, 2016, 2017]
+- Corporate Finance [MBA, 2018]
+- Asset Management  [Msc, 2018]
 
