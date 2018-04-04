@@ -1,6 +1,7 @@
 +++
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
+folder = "publication"
 widget = "publications"
 active = true
 date = "2017-01-01T00:00:00Z"
