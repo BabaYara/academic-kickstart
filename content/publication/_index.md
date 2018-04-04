@@ -1,8 +1,8 @@
 +++
-title = "Publication"
+title = "publications"
 date = "2017-01-01T00:00:00Z"
-math = false
-highlight = false
+math = true
+highlight = true
 
 # List format.
 #   0 = Simple
