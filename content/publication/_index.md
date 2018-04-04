@@ -1,5 +1,5 @@
 +++
-title = "publications"
+title = "publication"
 date = "2017-01-01T00:00:00Z"
 math = true
 highlight = true
