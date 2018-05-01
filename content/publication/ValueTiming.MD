@@ -56,6 +56,6 @@ highlight = false
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
-caption = "Available Upon Request"
+caption = "PDF Available Upon Request"
 
 +++
