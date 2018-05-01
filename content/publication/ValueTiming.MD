@@ -33,10 +33,10 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
- projects = ["Return Predictability"]
+# projects = ["Return Predictability"]
 
 # Links (optional).
-url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3054017"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -56,6 +56,6 @@ highlight = false
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
-caption = ""
+caption = "Available Upon Request"
 
 +++
