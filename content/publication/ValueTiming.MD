@@ -22,7 +22,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "We investigate the relationship between volatility risk premia (the difference between realized volatility and implied volatility) and commodity returns, using a strategy that that buys cheap to-insure commodity futures and sells expensive to-insure commodity futures. We find that this strategy (dubbed VRP) delivers a substantial risk adjusted average nearby return. We also find that individual commodity VRP does not predict own returns in the time series. Furthermore, the commodity futures VRP return stream is not related to the widely traded benchmarks (basis and return momentum), and so provides an alternative source of diversified returns."
-abstract_short = ""
+abstract_short = "PDF Available Upon Request"
 
 # Featured image thumbnail (optional)
 #image_preview = ""
