@@ -35,7 +35,7 @@ selected = false
 # projects = ["Return Predictability"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3054017"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
