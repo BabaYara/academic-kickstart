@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "NOVA SBE", url = "http://www.novasbe.unl.pt/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "/img/download.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "/img/Portrait05.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   address = "Avenida Ressano Garcia 3, Lisboa, 1070-237, Portugal"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
